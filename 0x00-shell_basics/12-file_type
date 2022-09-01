@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 type /tmp/iamafile
+=======
+type iamafile/tmp
+>>>>>>> 0352e6cc0b0623018abdb7a6e3e7753eefa773ca
